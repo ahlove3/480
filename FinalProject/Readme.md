@@ -1,5 +1,3 @@
-[Page](https://ahlove3.github.io/480/)
-
 ## IA 480: Detecting Chinese Cyber Actors
 
 Introduce your finding to the class, including:
