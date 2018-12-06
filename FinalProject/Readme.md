@@ -21,7 +21,7 @@ From their data we created a spreadsheet that contained:
 - The average amount of time an attack lasts
 
 ### Trained Models
-[Deep Learning Model](DeepLearning/Deep_Learning_Model.xml)
+[Deep Learning Model](DeepLearning/Deep_Learning_Process.xml)
 
 [Decision Tree Model](DecisionTree/Decision_Tree_Process.xml)
 
