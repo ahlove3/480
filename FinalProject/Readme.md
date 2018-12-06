@@ -1,7 +1,5 @@
 ## IA 480: Detecting Chinese Cyber Actors
 
-Introduce your finding to the class, including:
-
 ### The Problem
 
 **_How to quickly identify likely cyber actors after and attack_**
