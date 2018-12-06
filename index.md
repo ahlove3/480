@@ -1,4 +1,4 @@
-[Page](https://ahlove3.github.io/480/)
+[Final Project](https://ahlove3.github.io/480/FinalProject)
 
 ## IA 480: Detecting Chinese Cyber Actors
 
