@@ -13,7 +13,7 @@ Our data was compiled from the open-source data provided by [Mitre](https://atta
 
 From their data we created a spreadsheet that contained:
 - The groups we were focused on
-- Their known alias'
+- Their known aliases
 - The industries they typically target
 - The software they are known to use
 - Any specific techniques that they are known to use
