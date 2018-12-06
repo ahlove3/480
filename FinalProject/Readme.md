@@ -9,7 +9,7 @@
 
 
 
-Our data was compiled from the open-source data provided by [Mitre](https://attack.mitre.org/groups/)
+Our data was compiled from the open-source data provided by [MITRE](https://attack.mitre.org/groups/)
 
 From their data we created a spreadsheet that contained:
 - The groups we were focused on
