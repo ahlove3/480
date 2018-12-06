@@ -24,7 +24,7 @@ From their data we created a spreadsheet that contained:
 [Deep Learning Model](DeepLearning/Deep_Learning_Process.xml)
 
 **Decision Tree**
-![Image of Decision Tree](DecisionTree/Decision_Tree.png)
+![Image of Decision Tree](DecisionTree/Decision_Tree.PNG)
 [Decision Tree Model](DecisionTree/Decision_Tree_Process.xml)
 
 ### Justification of the selection of models and parameters;
