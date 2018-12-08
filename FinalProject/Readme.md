@@ -6,9 +6,6 @@
 
 This project's focus was on cyber adversaries in China. Our aim was to identify and predict which techniques are most likely to be seen in future attacks among various cyber adversaries. We hope that this would allow an organization to quickly classify the likely cyber adversaries as information is collected specifying details of an attack. We collected all of our data from the not-for-profit think tank MITRE. MITRE collected their supplementary information and data from a variety of cybersecurity firms such as McAfee, RSA, and Crowdstrike. 
 
-**Identified Problems**
-
-While building and testing our model we ran into a few unforeseen problems. It makes sense, in hindsight, for our model to have lower kappa and accuracy scores because of the chosen data. All information was collected and utilized because the adversaries and their associated attacks were open source knowledge. Much of the critical information which would be useful in a machine learning model, such as ours, may not be easily accessible in the public domain. Cyber adversaries of interest, if successful, will not have a large amount of information known on their techniques, software utilized, and known IP address associations. If this knowledge is commonly known and easily accessible on the internet, it is assumed the adversaries would change associated techniques and methods for attacks, otherwise, they would not be successful in the future. 
 
 ### The Data
 
@@ -31,6 +28,9 @@ The groups target a variety of different entities and are all known for utilizin
 
 Night Dragon is known to target oil, gas, and petrochemical companies. Deep Panda targets various industries including governments, defense, financial, and telecommunication while Putter Panda targets space, satellites, and remote sensing technology. 
 
+**Identified Problems**
+
+While building and testing our model we ran into a few unforeseen problems. It makes sense, in hindsight, for our model to have lower kappa and accuracy scores because of the chosen data. All information was collected and utilized because the adversaries and their associated attacks were open source knowledge. Much of the critical information which would be useful in a machine learning model, such as ours, may not be easily accessible in the public domain. Cyber adversaries of interest, if successful, will not have a large amount of information known on their techniques, software utilized, and known IP address associations. If this knowledge is commonly known and easily accessible on the internet, it is assumed the adversaries would change associated techniques and methods for attacks, otherwise, they would not be successful in the future. 
 
 **Cyber Adversaries Count**
 ![Image of Count of Cyber Actors](Cyber_Adversaries_Count_Bar_Chart.PNG)
