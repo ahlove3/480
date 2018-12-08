@@ -18,7 +18,7 @@ From their data we created a spreadsheet that contained:
 - The software they are known to use
 - Any specific techniques that they are known to use
 - The location of the IP address typically associated with their attacks (if available)
-- The average amount of time an attack lasts
+- The known times of attacks
 
 ### Trained Models
 **Deep Learning**
@@ -31,4 +31,4 @@ From their data we created a spreadsheet that contained:
 
 ### Justification of the selection of models and parameters;
 
-### Conclusion and limitation of your research, and suggestions for improving your
+### Conclusion and limitation of your research, and suggestions for improving your model
