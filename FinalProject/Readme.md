@@ -2,7 +2,7 @@
 
 ### The Problem
 
-**_How to quickly identify likely cyber actors after an attack_**
+**_How to quickly identify likely cyber actors based on associated locations, targets, softwares, and techniques after an attack_**
 
 
 ### The Data
