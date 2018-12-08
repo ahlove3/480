@@ -41,20 +41,13 @@ Our data utilized both Decision Tree and Deep Learning models.
 Decision Tree provided us an accuracy of 30.67% and a classification error of 69.33%. 
 ```
 Decision Tree Training Accuracy
-
-![Image of Decision Tree Training Accuracy](Decision Tree/Decision_Tree_Training_Accuracy_Score.PNG)
-
+![Image of Decision Tree Training Accuracy](DecisionTree/Decision_Tree_Training_Accuracy_Score.PNG)
 Decision Tree Training Kappa
-
-![Image of Decision Tree Training Kappa](Decision Tree/Decision_Tree_Training_Kappa_Score.PNG)
-
+![Image of Decision Tree Training Kappa](DecisionTree/Decision_Tree_Training_Kappa_Score.PNG)
 Decision Tree Test Accuracy
-
-![Image of Decision Tree Test Accuracy](Decision Tree/Decision_Tree_Test_Accuracy_Score.PNG)
-
+![Image of Decision Tree Test Accuracy](DecisionTree/Decision_Tree_Test_Accuracy_Score.PNG)
 Decision Tree Test Kappa
-
-![Image of Decision Tree Test Kappa](Decision Tree/Decision_Tree_Test_Kappa_Score.PNG)
+![Image of Decision Tree Test Kappa](DecisionTree/Decision_Tree_Test_Kappa_Score.PNG)
 
 
 ```
