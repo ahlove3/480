@@ -36,9 +36,10 @@ Night Dragon is known to target oil, gas, and petrochemical companies. Deep Pand
 ### Trained Models
 
 Our data utilized both Decision Tree and Deep Learning models.
-``
+
+```
 Decision Tree provided us an accuracy of 30.67% and a classification error of 69.33%. 
-``
+```
 Decision Tree Training Accuracy
 ![Image of Decision Tree Training Accuracy](Decision Tree/Decision_Tree_Training_Accuracy_Score.PNG)
 
@@ -52,9 +53,9 @@ Decision Tree Test Kappa
 ![Image of Decision Tree Test Kappa](Decision Tree/Decision_Tree_Test_Kappa_Score.PNG)
 
 
-``
+```
 Deep Learning had an accuracy of 21.47% and a classification error of 78.53%.
-``
+```
 Deep Learning Training Accuracy
 ![Image of Deep Learning Training Accuracy](DeepLearning/Deep_Learning_Training_Accuracy_Score.PNG)
 Deep Learning Training Kappa
@@ -94,17 +95,17 @@ The Results
 ```
 ![Image of Deep Learning](DeepLearning/Deep_Learning_Results.PNG)
 
-``
+```
 The Process
-``
+```
 Main Process
 ![Image of Deep Learning Process](DeepLearning/Deep_Learning_Process.PNG)
 Inner Process
 ![Image of Deep Learning Inner Process](DeepLearning/Deep_Learning_Process_Inner.PNG)
 [Deep Learning Model Process Script](DeepLearning/Deep_Learning_Process.xml)
-``
+```
 Simulator Results
-``
+```
 ![Image of Deep Learning Simulator Results](DeepLearning/Deep_Learning_Simulator.PNG)
 
 ### Justification of the selection of models and parameters
