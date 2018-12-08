@@ -38,11 +38,11 @@ Night Dragon is known to target oil, gas, and petrochemical companies. Deep Pand
 ### Trained Models
 **Deep Learning**
 ![Image of Deep Learning](DeepLearning/Deep_Learning_Results.PNG)
-[Deep Learning Model](DeepLearning/Deep_Learning_Process.xml)
+[Deep Learning Model Process](DeepLearning/Deep_Learning_Process.xml)
 
 **Decision Tree**
 ![Image of Decision Tree](DecisionTree/Decision_Tree.PNG)
-[Decision Tree Model](DecisionTree/Decision_Tree_Process.xml)
+[Decision Tree Model Process](DecisionTree/Decision_Tree_Process.xml)
 
 ### Justification of the selection of models and parameters
 
