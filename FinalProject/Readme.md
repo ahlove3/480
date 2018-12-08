@@ -29,6 +29,11 @@ The groups target a variety of different entities and are all known for utilizin
 
 Night Dragon is known to target oil, gas, and petrochemical companies. Deep Panda targets various industries including governments, defense, financial, and telecommunication while Putter Panda targets space, satellites, and remote sensing technology. 
 
+**Identified Problems**
+
+While building and testing our model we ran into a few unforeseen problems. It makes sense, In hindsight, for our model to have lower kappa and accuracy scores because of the data of choice. All information on the cyber actors was collected and utilized because the actors and their associated attacks are open source knowledge. Much of the critical information which would be useful in a machine learning model, such as ours, may not be easily accessible in the public domain. Cyber actors of interest, if successful, will not have a large amount of information known on their techniques, software utilized, and known IP address associations. If this knowledge is commonly known and easily accessible on the internet, it is assumed the actors would change associated techniques and methods for attacks, otherwise they would not be successful in the future. 
+
+
 **Cyber Adversaries Count**
 ![Image of Count of Cyber Actors](Cyber_Adversaries_Count_Bar_Chart.PNG)
 
@@ -113,5 +118,7 @@ While the parameters we selected were those that we felt would be most useful fo
 
 ### Our conclusion, the limitations of our research, and suggestions for future improvement
 
-While building and testing our model we ran into a few unforeseen problems. It makes sense, In hindsight, for our model to have lower kappa and accuracy scores because of the data of choice. All information on the cyber actors was collected and utilized because the actors and their associated attacks are open source knowledge. Much of the critical information which would be useful in a machine learning model, such as ours, may not be easily accessible in the public domain. Cyber actors of interest, if successful, will not have a large amount of information known on their techniques, software utilized, and known IP address associations. If this knowledge is commonly known and easily accessible on the internet, it is assumed the actors would change associated techniques and methods for attacks, otherwise they would not be successful in the future. 
+Our accuracy scores were much lower than initially anticipated. In hindsight, however, these scores make sense for our data we are using. It is hard to gather all necessary information on cyber adversaries and we are limited because of what is known in the public domain. If adversaries are successful in their attacks information might not be found about them. There are some adversaries who do want to be found, but most will find their way into a computer system, complete what is necessary for their attack, and then leave without a trace.  Adversaries may leave signatures as a means for future identification, but these may not provide a complete picture to locate and identify them. Over time and with enough information collected on certain groups, we will then be able to create a more accurate picture on them. The obtained accuracy scores reflected the discrepancy in information known on the adversaries of interest.
+
+There is a plan on continuing and improving this model in the following semester. Data will be gathered in a Deep Web analysis class, where hopefully, information such as IP addresses, softwares, and new techniques will be more readily available on the attacks. As well, because all of the data was imputed by hand into an excel sheet, this will give us more time to validate as well as research the necessary information. 
 
