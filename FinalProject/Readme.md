@@ -46,7 +46,7 @@ Decision Tree Training Kappa
 Decision Tree Test Accuracy
 ![Image of Decision Tree Test Accuracy](Decision Tree/Decision_Tree_Test_Accuracy_Score.PNG)
 Decision Tree Test Kappa
-![Image of Decision Tree Test Kappa](Decision Tree/Decision_Tree_Test_Kappa_Score.PNG	)
+![Image of Decision Tree Test Kappa](Decision Tree/Decision_Tree_Test_Kappa_Score.PNG)
 
 
 ```
@@ -59,7 +59,7 @@ Deep Learning Training Kappa
 Deep Learning Test Accuracy
 ![Image of Deep Learning Test Accuracy](DeepLearning/Deep_Learning_Test_Accuracy_Score.PNG)
 Deep Learning Test Kappa
-![Image of Deep Learning Test Kappa](DeepLearning/Deep_Learning_Test_Kappa_Score.PNG)
+![Image of Deep Learning Test Kappa](DeepLearning/Deep_learning_Test_Kappa_Score.PNG)
 
 
 These accuracies represent the percent at which the model was able to predict the adversaries with the techniques, softwares, and associated locations. If a model has an accuracy which is too high this represents a model which is too complex for the provided data set. If the model is overly complex, the testing data is going to be overly reliant on its training data and overconfident in its results. The model would then just be a visualization of the data from which it is learning from and would not be an accurate representation of new data and their most likely results. If the accuracy is too low then the model is not relying on training data at all and is overly simple. This type of model would not be able to generalize or capture all of the aspects of our data and therefore perform poorly in the results.
