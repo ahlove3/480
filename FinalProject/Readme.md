@@ -34,6 +34,7 @@ While building and testing our model we ran into a few unforeseen problems. It m
 
 **Cyber Adversaries Count**
 ![Image of Count of Cyber Actors](Cyber_Adversaries_Count_Bar_Chart.PNG)
+This graph represents the number of cyber adversaries associated with each group
 
 
 ### Trained Models
