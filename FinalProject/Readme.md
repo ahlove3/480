@@ -40,26 +40,26 @@ Our data utilized both Decision Tree and Deep Learning models.
 ```
 Decision Tree provided us an accuracy of 30.67% and a classification error of 69.33%. 
 ```
-Decision Tree Training Accuracy
+**Decision Tree Training Accuracy**
 ![Image of Decision Tree Training Accuracy](DecisionTree/Decision_Tree_Training_Accuracy_Score.PNG)
-Decision Tree Training Kappa
+**Decision Tree Training Kappa**
 ![Image of Decision Tree Training Kappa](DecisionTree/Decision_Tree_Training_Kappa_Score.PNG)
-Decision Tree Test Accuracy
+**Decision Tree Test Accuracy**
 ![Image of Decision Tree Test Accuracy](DecisionTree/Decision_Tree_Test_Accuracy_Score.PNG)
-Decision Tree Test Kappa
+**Decision Tree Test Kappa**
 ![Image of Decision Tree Test Kappa](DecisionTree/Decision_Tree_Test_Kappa_Score.PNG)
 
 
 ```
 Deep Learning had an accuracy of 21.47% and a classification error of 78.53%.
 ```
-Deep Learning Training Accuracy
+**Deep Learning Training Accuracy**
 ![Image of Deep Learning Training Accuracy](DeepLearning/Deep_Learning_Training_Accuracy_Score.PNG)
-Deep Learning Training Kappa
+**Deep Learning Training Kappa**
 ![Image of Deep Learning Training Kappa](DeepLearning/Deep_Learning_Training_Kappa_Score.PNG)
-Deep Learning Test Accuracy
+**Deep Learning Test Accuracy**
 ![Image of Deep Learning Test Accuracy](DeepLearning/Deep_Learning_Test_Accuracy_Score.PNG)
-Deep Learning Test Kappa
+**Deep Learning Test Kappa**
 ![Image of Deep Learning Test Kappa](DeepLearning/Deep_learning_Test_Kappa_Score.PNG)
 
 
@@ -75,9 +75,9 @@ The Results
 ```
 The Process
 ```
-Main Process
+**Main Process**
 ![Image of Decision Tree Process](DecisionTree/Decision_Tree_Process.PNG)
-Inner Process
+**Inner Process**
 ![Image of Decision Tree Inner Process](DecisionTree/Decision_Tree_Inner_Process.PNG)
 [Decision Tree Model Process Script](DecisionTree/Decision_Tree_Process.xml)
 ```
@@ -95,9 +95,9 @@ The Results
 ```
 The Process
 ```
-Main Process
+**Main Process**
 ![Image of Deep Learning Process](DeepLearning/Deep_Learning_Process.PNG)
-Inner Process
+**Inner Process**
 ![Image of Deep Learning Inner Process](DeepLearning/Deep_Learning_Process_Inner.PNG)
 [Deep Learning Model Process Script](DeepLearning/Deep_Learning_Process.xml)
 ```
