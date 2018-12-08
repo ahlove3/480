@@ -18,8 +18,6 @@ While building and testing our model we ran into a few unforeseen problems. It m
 
 ### The Data
 
-
-
 Our data was compiled from the open-source data provided by [MITRE](https://attack.mitre.org/groups/)
 
 From their data we created a spreadsheet that contained:
