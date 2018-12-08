@@ -32,6 +32,8 @@ The groups target a variety of different entities and are all known for utilizin
 Night Dragon is known to target oil, gas, and petrochemical companies. Deep Panda targets various industries including governments, defense, financial, and telecommunication while Putter Panda targets space, satellites, and remote sensing technology. 
 
 **Cyber Adversaries Counts**
+![Image of Count of Cyber Actors](Cyber_Adversaries_Count_Bar_Chart.PNG)
+
 
 ### Trained Models
 **Deep Learning**
