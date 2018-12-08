@@ -29,6 +29,8 @@ From their data we created a spreadsheet that contained:
 - The location of the IP address typically associated with their attacks (if available)
 - The known times of attacks
 
+Our data utilized both Decision Tree and Deep Learning models. Decision Tree provided us an accuracy of 30.67% and a classification error of 69.33%. Deep Learning had an accuracy of 21.47% and a classification error of 78.53%. These accuracies represent the percent at which the model was able to predict the adversaries with the techniques, softwares, and associated locations. If a model has an accuracy which is too high this represents a model which is too complex for the provided data set. If  the model is overly complex, the testing data is going to be overly reliant on its training data and overconfident in its results. The model would then just be a visualization of the data from which it is learning from and would not be an accurate representation of new data and their most likely results. If the accuracy is too low then the model is not relying on training data at all and is overly simple. This type of model would not be able to generalize or capture all of the aspects of our data and therefore perform poorly in the results.
+
 **Cyber Adversaries Counts**
 
 ### Trained Models
