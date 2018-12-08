@@ -116,7 +116,7 @@ Our reasoning for choosing the parameters we did was based on the data that we w
 
 While the parameters we selected were those that we felt would be most useful for the models we had selected, we also selected the models based on the information that we were able to gather. Certain models could not be used, as they needed numerical data and the majority of our data was nominal. We did try several other models, but ultimately they provided little to no information that we felt would be helpful in actually solving our problem of figuring out potential cyber actors based on limited data that is likely still coming in.
 
-### Our conclusion, the limitations of our research, and suggestions for future improvement
+### Conclusion, limitations of our research, and suggestions for future improvement
 
 Our accuracy scores were much lower than initially anticipated. In hindsight, however, these scores make sense for our data we are using. It is hard to gather all necessary information on cyber adversaries and we are limited because of what is known in the public domain. If adversaries are successful in their attacks information might not be found about them. There are some adversaries who do want to be found, but most will find their way into a computer system, complete what is necessary for their attack, and then leave without a trace.  Adversaries may leave signatures as a means for future identification, but these may not provide a complete picture to locate and identify them. Over time and with enough information collected on certain groups, we will then be able to create a more accurate picture on them. The obtained accuracy scores reflected the discrepancy in information known on the adversaries of interest.
 
