@@ -19,8 +19,6 @@ From their data we created a spreadsheet that contained:
 - The location of the IP address typically associated with their attacks (if available)
 - The known times of attacks
 
-Our data utilized both Decision Tree and Deep Learning models. Decision Tree provided us an accuracy of 30.67% and a classification error of 69.33%. Deep Learning had an accuracy of 21.47% and a classification error of 78.53%. These accuracies represent the percent at which the model was able to predict the adversaries with the techniques, softwares, and associated locations. If a model has an accuracy which is too high this represents a model which is too complex for the provided data set. If  the model is overly complex, the testing data is going to be overly reliant on its training data and overconfident in its results. The model would then just be a visualization of the data from which it is learning from and would not be an accurate representation of new data and their most likely results. If the accuracy is too low then the model is not relying on training data at all and is overly simple. This type of model would not be able to generalize or capture all of the aspects of our data and therefore perform poorly in the results.
-
 **The Dataset**
 
 Our dataset was hand filled and contains the name, aliases, targets, softwares, techniques, location or IP address associated with the groups, as well as common times for the groups to attack. Not all the data could be found among the various groups. Between the three groups Night Dragon had information on common times associated with their attacks, whereas the others did not. In comparison, Deep Panda had a significant amount of IP addresses associated with them as well as much more alias than the other cyber adversaries.   
@@ -36,13 +34,75 @@ Night Dragon is known to target oil, gas, and petrochemical companies. Deep Pand
 
 
 ### Trained Models
-**Deep Learning**
-![Image of Deep Learning](DeepLearning/Deep_Learning_Results.PNG)
-[Deep Learning Model Process](DeepLearning/Deep_Learning_Process.xml)
+
+Our data utilized both Decision Tree and Deep Learning models.
+```
+Decision Tree provided us an accuracy of 30.67% and a classification error of 69.33%. 
+```
+Decision Tree Training Accuracy
+![Image of Decision Tree Training Accuracy](Decision Tree/Decision_Tree_Training_Accuracy_Score.PNG)
+Decision Tree Training Kappa
+![Image of Decision Tree Training Kappa](Decision Tree/Decision_Tree_Training_Kappa_Score.PNG)
+Decision Tree Test Accuracy
+![Image of Decision Tree Test Accuracy](Decision Tree/Decision_Tree_Test_Accuracy_Score.PNG)
+Decision Tree Test Kappa
+![Image of Decision Tree Test Kappa](Decision Tree/Decision_Tree_Test_Kappa_Score.PNG	)
+
+
+```
+Deep Learning had an accuracy of 21.47% and a classification error of 78.53%.
+```
+Deep Learning Training Accuracy
+![Image of Deep Learning Training Accuracy](DeepLearning/Deep_Learning_Training_Accuracy_Score.PNG)
+Deep Learning Training Kappa
+![Image of Deep Learning Training Kappa](DeepLearning/Deep_Learning_Training_Kappa_Score.PNG)
+Deep Learning Test Accuracy
+![Image of Deep Learning Test Accuracy](DeepLearning/Deep_Learning_Test_Accuracy_Score.PNG)
+Deep Learning Test Kappa
+![Image of Deep Learning Test Kappa](DeepLearning/Deep_Learning_Test_Kappa_Score.PNG)
+
+
+These accuracies represent the percent at which the model was able to predict the adversaries with the techniques, softwares, and associated locations. If a model has an accuracy which is too high this represents a model which is too complex for the provided data set. If the model is overly complex, the testing data is going to be overly reliant on its training data and overconfident in its results. The model would then just be a visualization of the data from which it is learning from and would not be an accurate representation of new data and their most likely results. If the accuracy is too low then the model is not relying on training data at all and is overly simple. This type of model would not be able to generalize or capture all of the aspects of our data and therefore perform poorly in the results.
+
 
 **Decision Tree**
+```
+The Results
+```
 ![Image of Decision Tree](DecisionTree/Decision_Tree.PNG)
-[Decision Tree Model Process](DecisionTree/Decision_Tree_Process.xml)
+
+```
+The Process
+```
+Main Process
+![Image of Decision Tree Process](DecisionTree/Decision_Tree_Process.PNG)
+Inner Process
+![Image of Decision Tree Inner Process](DecisionTree/Decision_Tree_Inner_Process.PNG)
+[Decision Tree Model Process Script](DecisionTree/Decision_Tree_Process.xml)
+```
+Simulator Results
+```
+![Image of Decision Tree Simulator Results](DecisionTree/Decision_Tree_Simulator.2.PNG)
+
+
+**Deep Learning**
+```
+The Results
+```
+![Image of Deep Learning](DeepLearning/Deep_Learning_Results.PNG)
+
+```
+The Process
+```
+Main Process
+![Image of Deep Learning Process](DeepLearning/Deep_Learning_Process.PNG)
+Inner Process
+![Image of Deep Learning Inner Process](DeepLearning/Deep_Learning_Process_Inner.PNG)
+[Deep Learning Model Process Script](DeepLearning/Deep_Learning_Process.xml)
+```
+Simulator Results
+```
+![Image of Deep Learning Simulator Results](DeepLearning/Deep_Learning_Simulator.PNG)
 
 ### Justification of the selection of models and parameters
 
