@@ -31,6 +31,8 @@ From their data we created a spreadsheet that contained:
 - The location of the IP address typically associated with their attacks (if available)
 - The known times of attacks
 
+**Cyber Adversaries Counts**
+
 ### Trained Models
 **Deep Learning**
 ![Image of Deep Learning](DeepLearning/Deep_Learning_Results.PNG)
