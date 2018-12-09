@@ -111,7 +111,7 @@ Simulator Results
 ```
 ![Image of Deep Learning Simulator Results](DeepLearning/Deep_Learning_Simulator.PNG)
 
-### Justification of the selection of models and parameters
+### Justification of the Selection of Models and Parameters
 
 Our project comprised of both a Decision Tree and Deep Learning model. Using a Decision Tree model not only gave us the best accuracies out of all the models, but it also allowed us to create an “if-then” approach to understanding our data. This technique is incredibly useful in deciding which cyber actor is most likely to be associated in the future based on each of the techniques and software and can only be decided by walking through a variety of steps to come to a decision. Utilizing the “simulator” in the auto model portion of RapidMiner allowed us to choose an IP address, target, software, and technique, and see the predicted actor most likely associated with them, as well as how those decisions either contradicts or supports the actor. We could choose between the various IP addresses found, software, techniques, and targets. After choosing each one we were able to identify the most likely associated alias. This was also visualized in the actual decision tree where an individual could walk through each decision and find the most likely associated actor. This was the most logical way to represent the data
 
