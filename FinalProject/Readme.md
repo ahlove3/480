@@ -4,6 +4,8 @@
 
 **_How to quickly identify likely cyber adversaries based on associated locations, targets, softwares, and techniques after an attack._**
 
+### Introduction to Project
+
 This project's focus was on cyber adversaries in China. Our aim was to identify and predict which techniques are most likely to be seen in future attacks among various cyber adversaries. We hope that this would allow an organization to quickly classify the likely cyber adversaries as information is collected specifying details of an attack. We collected all of our data from the not-for-profit think tank MITRE. MITRE collected their supplementary information and data from a variety of cybersecurity firms such as McAfee, RSA, and Crowdstrike. 
 
 
