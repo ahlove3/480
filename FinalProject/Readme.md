@@ -122,7 +122,7 @@ Our parameters were chosen based on the data that we were able to obtain. Becaus
 We also found that other models could not be used because they needed numerical data and the majority of our data set was nominal. We tried several other models, but ultimately they provided little to no useful information which would be beneficial in identifying potential cyber adversaries.
 
 
-### Conclusion, limitations of our research, and suggestions for future improvement
+### Conclusion, Limitations of our Research, and Suggestions for Future Improvement
 
 Our accuracy scores were much lower than initially anticipated. In hindsight, however, these scores make sense for our data we are using. It is hard to gather all necessary information on cyber adversaries and we are limited because of what is known in the public domain. If adversaries are successful in their attacks information might not be found about them. There are some adversaries who do want to be found, but most will find their way into a computer system, complete what is necessary for their attack, and then leave without a trace.  Adversaries may leave signatures as a means for future identification, but these may not provide a complete picture to locate and identify them. Over time and with enough information collected on certain groups, we will then be able to create a more accurate picture of them. The obtained accuracy scores reflected the discrepancy in information known on the adversaries of interest.
 
