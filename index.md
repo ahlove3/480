@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="assets/css/style.scss" />
+<link type="text/css" rel="stylesheet" href="stylesheets/main.scss" />
 
 [Final Project](https://ahlove3.github.io/480/FinalProject)
 
