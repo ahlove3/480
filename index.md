@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="assets/css/style.scss" />
 [Final Project](https://ahlove3.github.io/480/FinalProject)
 
 ## IA 480: Detecting Chinese Cyber Actors
