@@ -22,7 +22,7 @@ From their data we created a spreadsheet that contained:
 - The location of the IP address typically associated with their attacks (if available)
 - The known times of attacks
 
-Our dataset was hand filled and contains the name, aliases, targets, software, techniques, location or IP address associated with the groups, as well as common times for the groups to attack. Not all the data could be found among the various groups. Between the three groups, Night Dragon had information on common times associated with their attacks, whereas the others did not. In comparison, Deep Panda had a significant amount of IP addresses associated with them as well as much more alias than the other cyber adversaries.   
+Our dataset was hand filled and contains the name, aliases, targets, software, techniques, location and IP address associated with the groups, as well as common times for the groups to attack. Not all the data could be found among the various groups. Between the three groups, Night Dragon had information on common times associated with their attacks, whereas the others did not. In comparison, Deep Panda had a significant amount of IP addresses associated with them as well as much more alias than the other cyber adversaries.   
 
 The adversaries of focus are Night Dragon, Deep Panda, and Putter Panda. Each group has a variety of associated aliases. Night Dragon is associated with the alias Musical Chairs. Deep Panda can also be associated with the names ShellCrew, WebMasters, KungFu Kittens, PinkPanther, and Black Vine. Putter Panda is commonly associated with the names APT2 and MSUpdater. 
 
